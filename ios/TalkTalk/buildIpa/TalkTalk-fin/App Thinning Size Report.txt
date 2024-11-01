@@ -1,0 +1,155 @@
+
+App Thinning Size Report for All Variants of TalkTalk
+
+Variant: TalkTalk-010E28E9-1E25-4B2A-B36B-BABCE30C88BA.ipa
+Supported variant descriptors: [device: iPhone13,1, os-version: 14.0], [device: iPhone12,3, os-version: 14.0], [device: iPhone11,4, os-version: 14.0], [device: iPhone9,2, os-version: 14.0], [device: iPhone12,5, os-version: 13.0], [device: iPhone9,4, os-version: 14.0], [device: iPhone9,2, os-version: 15.0], [device: iPhone12,5, os-version: 15.0], [device: iPhone10,2, os-version: 15.0], [device: iPhone10,5, os-version: 15.0], [device: iPhone11,4, os-version: 15.0], [device: iPhone10,6, os-version: 14.0], [device: iPhone13,3, os-version: 14.0], [device: iPhone14,3, os-version: 15.0], [device: iPhone13,1, os-version: 15.0], [device: iPhone11,2, os-version: 14.0], [device: iPhone11,2, os-version: 15.0], [device: iPhone11,6, os-version: 13.0], [device: iPhone14,5, os-version: 15.0], [device: iPhone9,4, os-version: 15.0], [device: iPhone14,2, os-version: 15.0], [device: iPhone12,5, os-version: 14.0], [device: iPhone11,6, os-version: 14.0], [device: iPhone10,2, os-version: 14.0], [device: iPhone13,4, os-version: 14.0], [device: iPhone10,6, os-version: 15.0], [device: iPhone14,4, os-version: 15.0], [device: iPhone13,2, os-version: 14.0], [device: iPhone9,2, os-version: 13.0], [device: iPhone13,2, os-version: 15.0], [device: iPhone10,2, os-version: 13.0], [device: iPhone10,3, os-version: 15.0], [device: iPhone13,3, os-version: 15.0], [device: iPhone11,6, os-version: 15.0], [device: iPhone10,3, os-version: 13.0], [device: iPhone9,4, os-version: 13.0], [device: iPhone10,3, os-version: 14.0], [device: iPhone12,3, os-version: 13.0], [device: iPhone13,4, os-version: 15.0], [device: iPhone10,5, os-version: 14.0], [device: iPhone11,2, os-version: 13.0], [device: iPhone11,4, os-version: 13.0], [device: iPhone12,3, os-version: 15.0], [device: iPhone10,6, os-version: 13.0], and [device: iPhone10,5, os-version: 13.0]
+App + On Demand Resources size: 11 MB compressed, 19.8 MB uncompressed
+App size: 11 MB compressed, 19.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: TalkTalk-0587228C-FB00-4645-989B-4134872F0FD1.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 13.0], [device: iPhone11,8, os-version: 14.0], [device: iPhone12,1, os-version: 13.0], [device: iPhone12,1, os-version: 15.0], [device: iPhone11,8, os-version: 15.0], and [device: iPhone12,1, os-version: 14.0]
+App + On Demand Resources size: 11 MB compressed, 19.8 MB uncompressed
+App size: 11 MB compressed, 19.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: TalkTalk-1570F8AB-FBAC-4D06-9E44-C3E76B5CE450.ipa
+Supported variant descriptors: [device: iPhone8,4, os-version: 12.2], [device: iPhone6,2, os-version: 12.2], [device: iPhone8,1, os-version: 12.2], [device: iPod7,1, os-version: 12.2], [device: iPhone7,2, os-version: 12.2], [device: iPod9,1, os-version: 12.2], and [device: iPhone6,1, os-version: 12.2]
+App + On Demand Resources size: 11 MB compressed, 19.7 MB uncompressed
+App size: 11 MB compressed, 19.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: TalkTalk-1B93862C-24D6-4452-AB08-E574B4033392.ipa
+Supported variant descriptors: [device: iPad5,1, os-version: 15.0], [device: iPad5,3, os-version: 15.0], [device: iPad7,12, os-version: 14.0], [device: iPad12,1, os-version: 15.0], [device: iPad5,2, os-version: 15.0], [device: iPad7,6, os-version: 15.0], [device: iPad11,7, os-version: 14.0], [device: iPad6,11, os-version: 14.0], [device: iPad7,6, os-version: 14.0], [device: iPad7,11, os-version: 15.0], [device: iPad7,6, os-version: 13.0], [device: iPad6,7, os-version: 15.0], [device: iPad6,11, os-version: 13.0], [device: iPad6,12, os-version: 14.0], [device: iPad11,6, os-version: 14.0], [device: iPad7,5, os-version: 15.0], [device: iPad7,12, os-version: 15.0], [device: iPad5,3, os-version: 13.0], [device: iPad5,4, os-version: 14.0], [device: iPad11,7, os-version: 15.0], [device: iPad5,4, os-version: 15.0], [device: iPad5,4, os-version: 13.0], [device: iPad7,12, os-version: 13.0], [device: iPad6,11, os-version: 15.0], [device: iPad6,8, os-version: 15.0], [device: iPad7,5, os-version: 13.0], [device: iPad6,7, os-version: 14.0], [device: iPad5,3, os-version: 14.0], [device: iPad6,7, os-version: 13.0], [device: iPad6,8, os-version: 13.0], [device: iPad5,2, os-version: 13.0], [device: iPad7,5, os-version: 14.0], [device: iPad6,12, os-version: 15.0], [device: iPad6,12, os-version: 13.0], [device: iPad6,8, os-version: 14.0], [device: iPad5,2, os-version: 14.0], [device: iPad5,1, os-version: 13.0], [device: iPad7,11, os-version: 14.0], [device: iPad7,11, os-version: 13.0], [device: iPad11,6, os-version: 15.0], [device: iPad5,1, os-version: 14.0], and [device: iPad12,2, os-version: 15.0]
+App + On Demand Resources size: 11 MB compressed, 19.7 MB uncompressed
+App size: 11 MB compressed, 19.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: TalkTalk-1D8878C2-90AE-46E0-A053-576383A1DB09.ipa
+Supported variant descriptors: [device: iPad4,7, os-version: 12.2], [device: iPad4,5, os-version: 12.2], [device: iPad5,2, os-version: 12.2], [device: iPad4,2, os-version: 12.2], [device: iPad4,9, os-version: 12.2], [device: iPad5,3, os-version: 12.2], [device: iPad7,5, os-version: 12.2], [device: iPad6,8, os-version: 12.2], [device: iPad5,1, os-version: 12.2], [device: iPad6,12, os-version: 12.2], [device: iPad4,1, os-version: 12.2], [device: iPad5,4, os-version: 12.2], [device: iPad7,6, os-version: 12.2], [device: iPad6,7, os-version: 12.2], [device: iPad4,4, os-version: 12.2], [device: iPad6,11, os-version: 12.2], [device: iPad4,3, os-version: 12.2], [device: iPad4,6, os-version: 12.2], and [device: iPad4,8, os-version: 12.2]
+App + On Demand Resources size: 11 MB compressed, 19.7 MB uncompressed
+App size: 11 MB compressed, 19.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: TalkTalk-2D3ECF56-D26C-40AF-9C0E-A0A28B254EFE.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 12.2]
+App + On Demand Resources size: 11 MB compressed, 19.8 MB uncompressed
+App size: 11 MB compressed, 19.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: TalkTalk-329C10F5-2B88-45D6-8690-1E801ADFAB1C.ipa
+Supported variant descriptors: [device: iPad8,4, os-version: 12.2], [device: iPad11,3, os-version: 12.2], [device: iPad8,1, os-version: 12.2], [device: iPad8,3, os-version: 12.2], [device: iPad11,2, os-version: 12.2], [device: iPad8,8, os-version: 12.2], [device: iPad7,4, os-version: 12.2], [device: iPad8,2, os-version: 12.2], [device: iPad8,7, os-version: 12.2], [device: iPad11,1, os-version: 12.2], [device: iPad8,5, os-version: 12.2], [device: iPad7,2, os-version: 12.2], [device: iPad8,6, os-version: 12.2], [device: iPad6,4, os-version: 12.2], [device: iPad7,1, os-version: 12.2], [device: iPad11,4, os-version: 12.2], [device: iPad6,3, os-version: 12.2], and [device: iPad7,3, os-version: 12.2]
+App + On Demand Resources size: 11 MB compressed, 19.7 MB uncompressed
+App size: 11 MB compressed, 19.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: TalkTalk-340B4269-B493-4B29-B74A-0D8BAB5145F0.ipa
+Supported variant descriptors: [device: iPhone10,2, os-version: 12.0], [device: iPhone10,5, os-version: 12.0], [device: iPhone10,5, os-version: 11.0], [device: iPhone11,2, os-version: 12.0], [device: iPhone10,2, os-version: 11.0], [device: iPhone10,6, os-version: 12.0], [device: iPhone9,4, os-version: 11.0], [device: iPhone9,4, os-version: 12.0], [device: iPhone10,3, os-version: 11.0], [device: iPhone11,4, os-version: 12.0], [device: iPhone11,6, os-version: 12.0], [device: iPhone9,2, os-version: 11.0], [device: iPhone10,6, os-version: 11.0], [device: iPhone10,3, os-version: 12.0], and [device: iPhone9,2, os-version: 12.0]
+App + On Demand Resources size: 13.5 MB compressed, 27.5 MB uncompressed
+App size: 13.5 MB compressed, 27.5 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: TalkTalk-6D9139F7-2BC2-4160-9014-E658D3CC52B3.ipa
+Supported variant descriptors: [device: iPad8,6, os-version: 12.0], [device: iPad8,8, os-version: 12.0], [device: iPad7,4, os-version: 12.0], [device: iPad8,5, os-version: 12.0], [device: iPad6,4, os-version: 11.0], [device: iPad7,3, os-version: 11.0], [device: iPad7,1, os-version: 11.0], [device: iPad6,3, os-version: 11.0], [device: iPad8,1, os-version: 12.0], [device: iPad7,2, os-version: 12.0], [device: iPad6,3, os-version: 12.0], [device: iPad8,4, os-version: 12.0], [device: iPad6,4, os-version: 12.0], [device: iPad7,4, os-version: 11.0], [device: iPad8,7, os-version: 12.0], [device: iPad7,1, os-version: 12.0], [device: iPad7,2, os-version: 11.0], [device: iPad8,3, os-version: 12.0], [device: iPad8,2, os-version: 12.0], and [device: iPad7,3, os-version: 12.0]
+App + On Demand Resources size: 13.5 MB compressed, 27.4 MB uncompressed
+App size: 13.5 MB compressed, 27.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: TalkTalk-7C602C9F-5079-4742-AA27-ED06BE504EA5.ipa
+Supported variant descriptors: [device: iPhone10,1, os-version: 14.0], [device: iPhone10,4, os-version: 14.0], [device: iPhone12,8, os-version: 14.0], [device: iPhone12,8, os-version: 13.0], [device: iPhone12,8, os-version: 15.0], [device: iPhone9,1, os-version: 15.0], [device: iPhone9,1, os-version: 14.0], [device: iPhone10,4, os-version: 13.0], [device: iPhone9,3, os-version: 13.0], [device: iPhone10,4, os-version: 15.0], [device: iPhone9,1, os-version: 13.0], [device: iPhone10,1, os-version: 13.0], [device: iPhone10,1, os-version: 15.0], [device: iPhone9,3, os-version: 15.0], and [device: iPhone9,3, os-version: 14.0]
+App + On Demand Resources size: 11 MB compressed, 19.7 MB uncompressed
+App size: 11 MB compressed, 19.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: TalkTalk-87E6ED75-44C6-4B53-A8F8-155FF8A11AAE.ipa
+Supported variant descriptors: [device: iPhone6,2, os-version: 11.0], [device: iPhone8,1, os-version: 11.0], [device: iPhone6,1, os-version: 12.0], [device: iPhone8,4, os-version: 12.0], [device: iPhone8,4, os-version: 11.0], [device: iPhone6,1, os-version: 11.0], [device: iPhone7,2, os-version: 12.0], [device: iPod7,1, os-version: 12.0], [device: iPod7,1, os-version: 11.0], [device: iPhone6,2, os-version: 12.0], [device: iPhone8,1, os-version: 12.0], and [device: iPhone7,2, os-version: 11.0]
+App + On Demand Resources size: 13.5 MB compressed, 27.4 MB uncompressed
+App size: 13.5 MB compressed, 27.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: TalkTalk-AAA7255B-4F92-4081-B0A0-345FF16A56A8.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 12.2] and [device: iPhone7,1, os-version: 12.2]
+App + On Demand Resources size: 11 MB compressed, 19.8 MB uncompressed
+App size: 11 MB compressed, 19.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: TalkTalk-B6183E65-2E5D-4CEB-A8DC-DAC36259D5BA.ipa
+Supported variant descriptors: [device: iPhone7,1, os-version: 12.0], [device: iPhone8,2, os-version: 12.0], [device: iPhone8,2, os-version: 11.0], and [device: iPhone7,1, os-version: 11.0]
+App + On Demand Resources size: 13.5 MB compressed, 27.5 MB uncompressed
+App size: 13.5 MB compressed, 27.5 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: TalkTalk-B7721412-3B9E-470D-99A9-83E1D4D990E9.ipa
+Supported variant descriptors: [device: iPhone9,3, os-version: 12.2], [device: iPhone9,1, os-version: 12.2], [device: iPhone10,1, os-version: 12.2], and [device: iPhone10,4, os-version: 12.2]
+App + On Demand Resources size: 11 MB compressed, 19.7 MB uncompressed
+App size: 11 MB compressed, 19.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: TalkTalk-B7984963-1922-4295-A65B-8EC0ED185F74.ipa
+Supported variant descriptors: [device: iPad8,4, os-version: 13.0], [device: iPad8,2, os-version: 14.0], [device: iPad7,1, os-version: 14.0], [device: iPad14,1, os-version: 15.0], [device: iPad14,2, os-version: 15.0], [device: iPad7,3, os-version: 14.0], [device: iPad7,3, os-version: 13.0], [device: iPad8,8, os-version: 14.0], [device: iPad8,10, os-version: 15.0], [device: iPad8,7, os-version: 13.0], [device: iPad8,1, os-version: 13.0], [device: iPad8,3, os-version: 13.0], [device: iPad13,10, os-version: 14.0], [device: iPad13,5, os-version: 14.0], [device: iPad8,7, os-version: 15.0], [device: iPad8,5, os-version: 15.0], [device: iPad7,4, os-version: 14.0], [device: iPad13,6, os-version: 15.0], [device: iPad13,11, os-version: 15.0], [device: iPad13,4, os-version: 14.0], [device: iPad11,2, os-version: 14.0], [device: iPad6,3, os-version: 13.0], [device: iPad11,3, os-version: 13.0], [device: iPad8,5, os-version: 14.0], [device: iPad13,1, os-version: 14.0], [device: MacFamily20,1, os-version: 14.0], [device: iPad11,3, os-version: 15.0], [device: iPad13,1, os-version: 15.0], [device: iPad8,6, os-version: 15.0], [device: iPad11,4, os-version: 15.0], [device: iPad11,3, os-version: 14.0], [device: iPad7,3, os-version: 15.0], [device: iPad13,9, os-version: 15.0], [device: iPad6,4, os-version: 15.0], [device: iPad8,9, os-version: 13.0], [device: iPad6,4, os-version: 14.0], [device: MacFamily20,1, os-version: 15.0], [device: iPad8,2, os-version: 13.0], [device: iPad7,2, os-version: 13.0], [device: iPad11,4, os-version: 14.0], [device: iPad8,1, os-version: 14.0], [device: iPad7,2, os-version: 14.0], [device: iPad11,4, os-version: 13.0], [device: iPad7,1, os-version: 13.0], [device: iPad13,2, os-version: 14.0], [device: iPad13,5, os-version: 15.0], [device: iPad13,4, os-version: 15.0], [device: iPad11,1, os-version: 13.0], [device: iPad13,2, os-version: 15.0], [device: iPad8,12, os-version: 15.0], [device: iPad13,10, os-version: 15.0], [device: iPad13,8, os-version: 15.0], [device: iPad7,4, os-version: 13.0], [device: iPad8,7, os-version: 14.0], [device: iPad6,3, os-version: 14.0], [device: iPad8,11, os-version: 13.0], [device: iPad13,11, os-version: 14.0], [device: iPad8,1, os-version: 15.0], [device: iPad8,5, os-version: 13.0], [device: iPad8,6, os-version: 14.0], [device: iPad7,2, os-version: 15.0], [device: iPad8,6, os-version: 13.0], [device: iPad8,8, os-version: 13.0], [device: iPad8,10, os-version: 14.0], [device: iPad8,11, os-version: 14.0], [device: iPad8,11, os-version: 15.0], [device: iPad6,4, os-version: 13.0], [device: iPad11,2, os-version: 13.0], [device: iPad13,9, os-version: 14.0], [device: iPad13,8, os-version: 14.0], [device: iPad13,7, os-version: 14.0], [device: iPad8,3, os-version: 14.0], [device: iPad13,6, os-version: 14.0], [device: iPad11,1, os-version: 14.0], [device: iPad8,10, os-version: 13.0], [device: iPad8,12, os-version: 13.0], [device: iPad13,7, os-version: 15.0], [device: iPad8,9, os-version: 15.0], [device: iPad11,1, os-version: 15.0], [device: iPad11,2, os-version: 15.0], [device: iPad7,4, os-version: 15.0], [device: iPad8,12, os-version: 14.0], [device: iPad7,1, os-version: 15.0], [device: iPad8,3, os-version: 15.0], [device: iPad8,4, os-version: 15.0], [device: iPad8,2, os-version: 15.0], [device: iPad6,3, os-version: 15.0], [device: iPad8,8, os-version: 15.0], [device: iPad8,9, os-version: 14.0], and [device: iPad8,4, os-version: 14.0]
+App + On Demand Resources size: 11 MB compressed, 19.7 MB uncompressed
+App size: 11 MB compressed, 19.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: TalkTalk-BDB10C66-A460-418A-93C1-CDD62C230F53.ipa
+Supported variant descriptors: [device: iPad5,2, os-version: 12.0], [device: iPad4,9, os-version: 11.0], [device: iPad4,5, os-version: 11.0], [device: iPad5,4, os-version: 11.0], [device: iPad5,3, os-version: 11.0], [device: iPad4,5, os-version: 12.0], [device: iPad4,1, os-version: 11.0], [device: iPad6,7, os-version: 11.0], [device: iPad4,6, os-version: 11.0], [device: iPad4,8, os-version: 11.0], [device: iPad6,8, os-version: 12.0], [device: iPad4,2, os-version: 11.0], [device: iPad6,12, os-version: 11.0], [device: iPad4,7, os-version: 11.0], [device: iPad6,11, os-version: 11.0], [device: iPad5,3, os-version: 12.0], [device: iPad4,6, os-version: 12.0], [device: iPad7,6, os-version: 12.0], [device: iPad5,1, os-version: 11.0], [device: iPad4,2, os-version: 12.0], [device: iPad5,1, os-version: 12.0], [device: iPad7,5, os-version: 12.0], [device: iPad6,11, os-version: 12.0], [device: iPad5,2, os-version: 11.0], [device: iPad4,3, os-version: 11.0], [device: iPad7,5, os-version: 11.0], [device: iPad4,1, os-version: 12.0], [device: iPad4,7, os-version: 12.0], [device: iPad4,9, os-version: 12.0], [device: iPad5,4, os-version: 12.0], [device: iPad4,3, os-version: 12.0], [device: iPad4,4, os-version: 12.0], [device: iPad4,4, os-version: 11.0], [device: iPad7,6, os-version: 11.0], [device: iPad6,7, os-version: 12.0], [device: iPad4,8, os-version: 12.0], [device: iPad6,8, os-version: 11.0], and [device: iPad6,12, os-version: 12.0]
+App + On Demand Resources size: 13.5 MB compressed, 27.4 MB uncompressed
+App size: 13.5 MB compressed, 27.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: TalkTalk-C2ECA58F-20EF-456E-B202-B265F9694F38.ipa
+Supported variant descriptors: [device: iPhone9,3, os-version: 11.0], [device: iPhone10,1, os-version: 11.0], [device: iPhone10,4, os-version: 11.0], [device: iPhone10,4, os-version: 12.0], [device: iPhone9,1, os-version: 12.0], [device: iPhone10,1, os-version: 12.0], [device: iPhone9,1, os-version: 11.0], and [device: iPhone9,3, os-version: 12.0]
+App + On Demand Resources size: 13.5 MB compressed, 27.4 MB uncompressed
+App size: 13.5 MB compressed, 27.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: TalkTalk-D1E79C1E-E13F-4531-B41F-C5214357984B.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 12.0]
+App + On Demand Resources size: 13.5 MB compressed, 27.5 MB uncompressed
+App size: 13.5 MB compressed, 27.5 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: TalkTalk-E23CF57B-78F0-49E0-B802-04191474922B.ipa
+Supported variant descriptors: [device: iPhone8,4, os-version: 13.0], [device: iPhone8,4, os-version: 14.0], [device: iPhone8,1, os-version: 15.0], [device: iPhone8,1, os-version: 14.0], [device: iPhone8,1, os-version: 13.0], [device: iPod9,1, os-version: 15.0], [device: iPhone8,4, os-version: 15.0], [device: iPod9,1, os-version: 14.0], and [device: iPod9,1, os-version: 13.0]
+App + On Demand Resources size: 11 MB compressed, 19.7 MB uncompressed
+App size: 11 MB compressed, 19.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: TalkTalk-E994AA37-34AF-4017-8196-D8C704F58AFD.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 13.0], [device: iPhone8,2, os-version: 14.0], and [device: iPhone8,2, os-version: 15.0]
+App + On Demand Resources size: 11 MB compressed, 19.8 MB uncompressed
+App size: 11 MB compressed, 19.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: TalkTalk-F52AF1BD-A44B-47F1-8DD5-F8A78D914F6A.ipa
+Supported variant descriptors: [device: iPhone11,4, os-version: 12.2], [device: iPhone10,2, os-version: 12.2], [device: iPhone9,2, os-version: 12.2], [device: iPhone9,4, os-version: 12.2], [device: iPhone11,6, os-version: 12.2], [device: iPhone11,2, os-version: 12.2], [device: iPhone10,6, os-version: 12.2], [device: iPhone10,5, os-version: 12.2], and [device: iPhone10,3, os-version: 12.2]
+App + On Demand Resources size: 11 MB compressed, 19.8 MB uncompressed
+App size: 11 MB compressed, 19.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: TalkTalk.ipa
+Supported variant descriptors: Universal
+App + On Demand Resources size: 14.1 MB compressed, 28 MB uncompressed
+App size: 14.1 MB compressed, 28 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
